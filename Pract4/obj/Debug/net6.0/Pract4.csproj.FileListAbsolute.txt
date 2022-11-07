@@ -1,0 +1,15 @@
+C:\source\repos\Pract4\Pract4\Pract4\bin\Debug\net6.0\Pract4.exe
+C:\source\repos\Pract4\Pract4\Pract4\bin\Debug\net6.0\Pract4.deps.json
+C:\source\repos\Pract4\Pract4\Pract4\bin\Debug\net6.0\Pract4.runtimeconfig.json
+C:\source\repos\Pract4\Pract4\Pract4\bin\Debug\net6.0\Pract4.dll
+C:\source\repos\Pract4\Pract4\Pract4\bin\Debug\net6.0\Pract4.pdb
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.csproj.AssemblyReference.cache
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.AssemblyInfoInputs.cache
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.AssemblyInfo.cs
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.csproj.CoreCompileInputs.cache
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.dll
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\refint\Pract4.dll
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.pdb
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\Pract4.genruntimeconfig.cache
+C:\source\repos\Pract4\Pract4\Pract4\obj\Debug\net6.0\ref\Pract4.dll
