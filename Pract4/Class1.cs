@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace Pract4
 {
-    internal class Zametka
+    public class Zametka
     {
-        string name;
+        public string nazvanie;
+        public string text;
+        public DateTime data;
     }
 }
